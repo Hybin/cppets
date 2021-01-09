@@ -1,0 +1,8 @@
+.DS_Store
+
+# IDEs & Editors Conf
+.vscode/
+
+# Static Resource
+build/
+
